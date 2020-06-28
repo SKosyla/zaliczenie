@@ -20,7 +20,7 @@
   </component>
   <component name="RunManager">
     <configuration name="game" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
-      <module name="TicTacToe" />
+      <module name="Paint2.0" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
